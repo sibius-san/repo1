@@ -1,2 +1,3 @@
 edit in yeugenem/repo1
 edit 2 from upstream
+edit from VM - feature-x
